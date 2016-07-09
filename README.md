@@ -207,4 +207,12 @@ clicking on words they don't know.
 	so students can click on it
 
 
+# Installation
 
+install python
+pip install cherrypy
+
+# Running
+
+cd web/
+python serve.py
